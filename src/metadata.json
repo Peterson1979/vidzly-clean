@@ -1,0 +1,6 @@
+{
+  "name": "Vidzly.AI",
+  "description": "Vidzly.AI is a modern web application for discovering and watching popular YouTube videos, enhanced with AI-powered insights from Gemini. It features continuous scrolling, autoplay, search, and subscription options for an ad-free experience.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
